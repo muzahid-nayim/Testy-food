@@ -434,3 +434,10 @@ ul li a{
   font-weight: 500;
   font-size: 15px;
 }
+.bottomh{
+  margin-bottom: 50px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+  font-size: 1.5rem;
+  color: gray;
+}
